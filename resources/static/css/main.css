@@ -1,0 +1,32 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	padding:50px;
+}
+
+.header {
+	padding-bottom: 20px;
+}
+
+h1{
+	color:pink;
+}
+
+table{
+	width: 50%;
+  	height: 100px;
+  	padding: 10px;
+  	border: 30px solid pink;
+  	border-collapse: collapse;
+  	
+}
+
+th,td{
+	border: 1px solid pink;
+  	padding: 0.5rem;
+  	text-align: left;
+}
